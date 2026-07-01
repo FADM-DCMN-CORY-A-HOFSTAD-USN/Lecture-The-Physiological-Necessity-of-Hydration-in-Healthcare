@@ -4,7 +4,7 @@ Welcome to the official repository for the academic lecture and operational guid
 
 ---
 
-## ⚖️ Regulatory Notice & Repository Governance
+## Regulatory Notice & Repository Governance
 To remain fully compliant with GitHub Trust & Safety guidelines, FDA software data frameworks, and institutional compliance, this repository operates under strict operational boundaries:
 
 * **Pure Formulaic Models:** Any computational scripts, tracking mechanisms, or baseline fluid estimations embedded in this repository rely strictly on models from existing medical formulas and equations.
@@ -13,7 +13,7 @@ To remain fully compliant with GitHub Trust & Safety guidelines, FDA software da
 
 ---
 
-## 🔬 Mathematical Fluid Models (LaTeX)
+## Mathematical Fluid Models (LaTeX)
 
 To evaluate physiological fluid balance baselines, toxicologists and clinical planners utilize standardized mathematical clearance equations. 
 
@@ -41,7 +41,7 @@ Where:
 
 ---
 
-## 📂 Repository Contents & File Directory
+## Repository Contents & File Directory
 This repository contains the following files to support your deployment and validation processes:
 
 * `Lecture The Physiological Necessity of Hydration in Healthcare.docx`: Full presentation outline and lecture manuscript.
@@ -56,7 +56,7 @@ This repository contains the following files to support your deployment and vali
 
 ---
 
-## 🏛️ Legal Administration & Corporate Support
+## Legal Administration & Corporate Support
 This software and documentation portfolio is actively managed and legally audited. To preserve regulatory safety records, do **NOT** use public GitHub Issues or public Pull Requests to submit clinical complaints, math adjustments, or regulatory feedback.
 
 All software support, engineering updates, mathematical model customizations, formal complaints, and compliments must be routed exclusively to our legal counsel:
